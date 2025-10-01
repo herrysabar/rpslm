@@ -1,0 +1,5 @@
+{
+  "name": "RPS Laser Mirror",
+  "description": "A futuristic take on the classic Rock, Paper, Scissors game, with the addition of Laser and Mirror. Play against a bot, use each card once, and aim for the highest score to win.",
+  "requestFramePermissions": []
+}
